@@ -31,7 +31,7 @@ st.markdown("""
 
 with st.container():
     st.title("▌│█║▌║▌║ BMI Calculator")
-    st.info(" ##### by Godwin Nwalozie")
+    st.write(" ##### by Godwin Nwalozie")
 
 
 with st.container():
