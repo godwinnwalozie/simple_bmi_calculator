@@ -8,7 +8,7 @@ import time
 import random
 
 
-st.set_page_config(layout="centered")
+st.set_page_config(layout="wide")
 
 # Remove whitespace from the top of the page and sidebar
 st.markdown("""
