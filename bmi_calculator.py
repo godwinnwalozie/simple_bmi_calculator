@@ -77,8 +77,6 @@ with st.container():
                 #         time.sleep(0)
                 bmi = (check())
 
-
-
 with col2: 
     st.markdown("")  
     st.subheader("The importance of bmi")
